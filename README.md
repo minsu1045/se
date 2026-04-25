@@ -18,7 +18,7 @@
 - **문서 위치**: `doc/2.project_management_plan.md`
 - **대상 시스템**: 클라우드 파일 공유 시스템 (미니 드라이브)
 - **참고 문서**: projetct_management_plan Document 
-- 
+
 ### 과제3: 요구사항 정의서
 - **문서 위치**: `doc/3.requirements.md`
 - **대상 시스템**: 클라우드 파일 공유 시스템 (미니 드라이브)
