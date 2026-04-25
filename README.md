@@ -22,9 +22,10 @@
 - **문서 위치**: `doc/3.requirements.md`
 - **대상 시스템**: 클라우드 파일 공유 시스템 (미니 드라이브)
 
+
 SE Repository/
 ├── README.md
 └── doc/
-    ├── assignment1_quality_factors.md
-    ├── project_management_plan.md
-    └── requirements.md
+    ├── 1.quality_factors.md
+    ├── 2.project_management_plan.md
+    └── 3.requirements.md
