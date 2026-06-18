@@ -13,3 +13,4 @@
 - [과제2: 프로젝트 관리 계획서](doc/2.project_management_plan.md)
 - [과제3: 요구사항 정의서](doc/3.requirements.md)
 - [과제4: 요구사항 분석서](doc/4.requirements_analysis.md)
+- [과제5: 테스트 결과 보고서](doc/5.test_report.md)
